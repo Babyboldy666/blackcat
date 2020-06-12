@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Melhores Animes</title>
+</head>
+<style>
+       p {
+           color: white
+       }
+       a {
+           color: white
+       }
+        h1 {
+           color: white
+       }
+        h2 {
+           color: white
+       }
+        h3 {
+           color: white
+       }
+</style>
+<body background="anime-girl-city-building-height-4k-tc-2560x1700.jpg">
+  
+    <h1>
+        <strong>Melhores Animes</strong>
+    </h1>
+<hr>
+<br>
+    <h2>
+	   <em><strong>Top 5</strong></em>
+    </h2>   
+ 
+<p>
+    <ol>
+       	<li><a href="#Naruto"> Naruto</a></li>
+        <li><a href="#Tokyo Ghoul"> Tokyo Ghoul</a></li>
+        <li><a href="#Shingeki no kyojin"> Shingeki no kyojin</a></li>
+        <li><a href="#Death Note"> Death Note</a></li>
+        <li><a href="#Fullmetal alchemist"> Fullmetal alchemist</a></li>
+    </ol>
+<br>
+</p>
+    <h3>
+        <strong>Naruto</strong>
+    </h3>
+<hr>     
+<p id="Naruto">
+	<strong><a href="https://www.animestc.net/animes/naruto-classico-download-924825"> Naruto</strong></a> (ナルト) é uma série de <em>mangá</em> escrita e ilustrada por <em>Masashi Kishimoto</em>, que conta a história de Naruto Uzumaki, um jovem ninja que constantemente procura por reconhecimento e sonha em se tornar Hokage, o ninja líder de sua vila. A história é dividida em duas partes, a primeira parte se passa nos anos da pré-adolescência de Naruto, e a segunda parte se passa em sua adolescência. A série é baseada em dois <em>mangás one-shots</em> de Kishimoto: <em>Karakuri (1995)</em>, e que por causa dele Kishimoto ganhou uma menção honrosa no prêmio <em>Hop Step</em> da <strong>Shueisha</strong> no ano seguinte, e Naruto (1997). A editora <strong>Panini Comics</strong> licenciou e publicou o mangá em três versões no Brasil, e em Portugal é a editora <strong>Devir Manga</strong> quem licencia e publica o mangá. A história de Naruto continua com o seu filho, <strong>Boruto Uzumaki</strong> em Boruto: <strong>Naruto Next Generations</strong>.
+<br>
+   <img src="Naruto_Shippuuden_Jinchuuriki_Kyuubi_Uzumaki_Naruto-155302.jpg!d" width="326">
+</p>
+   <h3>
+   	   <strong>Tokyo Ghoul</strong>
+   </h3>
+<hr> 
+<p id="Tokyo Ghoul">
+   <strong><a href="https://www.animestc.net/animes/tokyo-ghoul-download">Tokyo Ghoul</a></strong> (東京喰種トーキョーグール Tōkyō Gūru?, ') é o título de uma série de mangá escrito e ilustrado por <em>Sui Ishida</em>. O primeiro capítulo do <em>mangá</em> foi lançado em 8 de setembro de 2011 na revista semanal <strong>Young Jump</strong> e o último em 18 de setembro de 2014. Os capítulos individuais foram compilados em um total de 14 volumes <em>tankōbon</em> e publicados pela editora <strong>Shueisha</strong>, tendo o último volume lançado em 17 de outubro de 2014. A série sequência nomeada como Tokyo Ghoul: re (東京喰種: reトーキョーグール: re Tōkyō Gūru: re) começou a ser serializada em outubro de 2014 pela mesma revista com os volumes publicados pela mesma editora. Em Tóquio, criaturas conhecidas como <em>ghouls</em> vivem entre os humanos e os devoram para sobreviver. Dentre eles, o jovem universitário <em>Ken Kaneki</em> leva uma vida pacata entre livros, até que um trágico encontro o coloca diante desses seres e o obriga a lutar por sua humanidade.
+<br>
+    <img src="AAAABddWNPHBX5iJBtMkpKzNe8gWSv6RWERSmSWxtSDXOdJSv5jXblpHCMpfa1WJw9KxSFu_xjpB6jAnZDgWc3lpj3ACB2SW.jpg" width="326">
+</p>
+    <h3>
+    	<strong>shingeki no kyojin</strong>
+    </h3>
+ <hr>   
+<p id="Shingeki no kyojin">
+  <strong><a href="https://www.animestc.net/animes/shingeki-no-kyojin-d">Shingeki no Kyojin</a></strong> (進撃の巨人 lit. "Ataque dos Gigantes" ou "Investida dos Gigantes", ou ainda "Titã de Ataque"), também conhecido como Attack on Titan, e Ataque dos Titãs no Brasil, é uma série de <em>mangá shonen</em> escrita e ilustrada por <em>Hajime Isayama</em>. O mangá foi publicado pela primeira vez em setembro de 2009 na revista mensal <strong>Bessatsu Shōnen Magazine</strong>, desde então, os capítulos são compilados e lançados pela editora <strong>Kodansha</strong>.
+<br>
+  No Brasil, o mangá é licenciado e publicado pela editora <strong>Panini Comics</strong> desde novembro de 2013.
+<br>
+  Em Portugal, o mangá está em lançamento, desde 6 de setembro de 2018, pela <strong>JBC Portugal</strong>.
+<br>
+  A história gira em torno da personagem Eren Yeager em um mundo onde a humanidade vive rodeada por enormes muralhas para se proteger de criaturas gigantescas, os Titãs. A história narra a luta da humanidade para recuperar seu território, e esclarecer os mistérios ligados ao aparecimento dos Titãs.
+ <br>
+    <img src="shingeki-no-kyojin-attack-on-titans-8-discos-1-temp-D_NQ_NP_855161-MLB29669755591_032019-F.jpg" width="326">
+</p>
+    <h3>
+    	<strong>Death Note</strong>
+    </h3>
+<hr> 
+<p id="Death Note">
+	<strong><a href="https://www.animestc.net/animes/death-note">Death Note</a></strong> (デスノート Desu Nōto, lit. "Caderno da Morte") é uma série de mangá escrita por <em>Tsugumi Ohba</em> e ilustrada por <em>Takeshi Obata</em>. Os capítulos do mangá foram serializados na revista semanal japonesa <strong>Weekly Shōnen Jump</strong> de 2003 até 2006, com os capítulos compilados em um total de 12 volumes <em>tankōbon</em> e lançados pela editora <strong>Shueisha</strong>. No Brasil, a série de mangá foi licenciada publicada em duas versões pela editora <strong>JBC</strong>, que também lançou as duas <em>light novels</em> da série. Em Portugal, o mangá foi licenciado pela <strong>Viz Media Europa</strong> e publicado pela <strong>Editora Devir</strong>.
+<br>
+    A história centra-se em Light Yagami, um estudante do ensino médio que descobre um caderno sobrenatural chamado Death Note, no qual pode matar pessoas se os nomes forem escritos nele enquanto o portador visualizar mentalmente o rosto de alguém que quer assassinar. A partir daí Light tenta eliminar todos os criminosos e criar um mundo onde não exista o mal, mas seus planos são contrariados por L, um famoso detetive particular.
+<br>
+    <img src="capa da matéria.jpg" width="326">
+</p>
+    <h3>
+    	<strong>Fullmetal alchemist</strong>
+    </h3>
+<hr> 
+<p id="Fullmetal alchemist">
+	<strong><a href="https://www.animestc.net/animes/fullmetal-alchemist-brotherhood-download-987432">Fullmetal Alchemist</a></strong> (鋼の錬金術師 Hagane no Renkinjutsushi, lit. "Alquimista de Aço") é um anime baseado no <em>mangá shōnen</em> escrito e ilustrado por <em>Hiromu Arakawa</em>. O mangá foi serializado na revista mensal japonesa <strong>Monthly Shōnen Gangan</strong> entre agosto de 2001 e junho de 2010, com os seus 108 capítulos individuais compilados em 27 volumes em formato <em>tankōbon</em> e publicados pela editora <strong>Square Enix</strong>. O mundo de Fullmetal Alchemist é baseado no período após a Revolução Industrial Europeia. Situado em um universo ficcional em que a alquimia é uma das mais avançadas técnicas científicas conhecidas pelo homem, a história centra-se nos irmãos Edward Elric e Alphonse Elric, que estão procurando a pedra filosofal para restaurar seus corpos após uma desastrosa tentativa de trazer a mãe falecida de volta à vida através da alquimia.
+<br>	
+	<img src="anime-fullmetal-alchemist-64038.jpg" width="326">
+</p>
+<strong><a href="#Melhores Animes">Voltar</a></strong>
+</body>
+</html>
